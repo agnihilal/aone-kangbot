@@ -59,7 +59,7 @@ AONE_LOGO = os.environ.get(
 # Telegram App KEY and HASH
 API_KEY = os.environ.get("API_KEY", "1681335")
 
-API_HASH = os.environ.get("API_HASH", None)
+API_HASH = os.environ.get("API_HASH", "80f0773e408b634a4652bbcd15acb17d")
 
 # Photo Chat - Get this value from http://antiddos.systems
 API_TOKEN = os.environ.get("API_TOKEN", None)
